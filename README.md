@@ -1,2 +1,2 @@
 # ProfessionalCookieMaker
-Application for generating your own cookies and pricing
+Application for generating your own cookies and pricing them
